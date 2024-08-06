@@ -1,0 +1,33 @@
+# August 26th
+# Merkabah
+## Books
+- Imperial Chronicles Issue 7 - Store
+## Vantage Masters
+- Celine and Ash - Cafeteria
+## Pom! Pom! Party!
+- Ash - Cafeteria
+
+# Sutherland Region
+## Optional Event
+- Visit Hotspring with Randy and Tio
+ - After completing "The Hot Spots" sidequest
+## Gifts
+- Laura and Jusis - Lemuric General Store @ Eryn
+## Sidequests
+- Family Scattering - Lord Quinn @ Parm
+- The Hot Spots - Witch Dallier @ Eryn
+
+# Lamare Region
+## Recipe
+- Alster Plate - Purchase from Sunny Spot Inn @ Alster
+## Book
+- Three & Nine Chapter 7 - Talk to Tilia near Steinrose Distillery
+## Sidequest
+- Avon Hills Monster
+## Fishing
+- Estella - Lake Gala Byroad Summit
+ - Requires talking to Kopan and Peter
+
+# The Pantagruel
+## Vantage Masters
+- Lloyd - Pantagruel VIP Room
