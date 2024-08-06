@@ -23,6 +23,8 @@
 - Persistent Study - Talk to Wayne or Jessica @ Training Room 3F
 - Herbal Supplements - Talk to Stark @ Conference Room 3F
 
+**------------------------------------------------------------------------------------------------**
+
 # Sutherland Region
 ## Sidequests
 - Operation: Free Eryn - Try to fly to Eryn, then visit on foot via teleportation stone to complete this quest"
@@ -32,6 +34,8 @@
 - Agate - Completed "Operation: Free Eryn" sidequest
 ## Optional Event
 - Visit Eryn Hotsprings with Juna, Musse, Altina, and Tita
+
+**------------------------------------------------------------------------------------------------**
 
 # Lamare Region
 ## Profile Notes
@@ -48,6 +52,8 @@
 - North Languedoc Canyon Monster
 ## Optional Events
 - Visit Cayenne Mansion in Ordis
+
+**------------------------------------------------------------------------------------------------**
 
 # Crossbell City
 ## Books
@@ -74,6 +80,8 @@
 - Talk to Lloyd in Morges Bakery, then Oscar in Entertainment District
 ## Sidequest
 - Geofront X Monster
+
+**------------------------------------------------------------------------------------------------**
 
 # August 30th
 ## Profile Notes

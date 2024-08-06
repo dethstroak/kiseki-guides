@@ -5,6 +5,8 @@
 ## Pom! Pom! Party!
 - Elie - Talk to Juna inside
 
+**------------------------------------------------------------------------------------------------**
+
 # Sutherland Region
 ## Book
 - Three & Nine Chapter 6 - Recruit Nash at Titus Gate
@@ -14,12 +16,16 @@
 ## Vantage Masters
 - Marquis Ballad - Marquis Hyarms' Mansion in Saint-Arkh
 
+**------------------------------------------------------------------------------------------------**
+
 # August 25th
 # Avon Hills, Milsante
 ## Vantage Masters
 - Josette - White Birch Inn
 ## Gifts
 - Towa - Diana General Store
+
+**------------------------------------------------------------------------------------------------**
 
 # Lake Gala Byroad
 ## Optional Event
@@ -28,6 +34,8 @@
 - Northern Arowana - Lake Gala Byroad North Spot
 ## Scenic Picture
 - Deck past the bridge
+
+**------------------------------------------------------------------------------------------------**
 
 # Leeves
 ## Books

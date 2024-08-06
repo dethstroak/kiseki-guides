@@ -16,6 +16,8 @@
 ## Optional Event
 - Visit Bath in 3F
 
+**------------------------------------------------------------------------------------------------**
+
 # Courageous 2 (After Luna Sanctuary)
 ## Books
 - Imperial Chronicle Issue 8 - Becky's Store 2F
@@ -38,6 +40,8 @@
 - "Interview with Nielsen" - Talk to Nielsen in Old Lamare Road Resting Lodge
 ## Optional Events
 - Duvalie - Training Hall 3F
+
+**------------------------------------------------------------------------------------------------**
 
 # August 28th
 # Courageous 2

@@ -5,6 +5,8 @@
 ## Free Gifts
 - Witch Auler - Herbalist Home
 
+**------------------------------------------------------------------------------------------------**
+
 # Milsante Town
 ## Book
 - If You Say Goodbye Part 1 - Diana's General Store
@@ -12,6 +14,8 @@
 - Minotauros - Diana's General Store
 ## Scenic Picture
 - White Bitch Inn - 2F Terrace
+
+**------------------------------------------------------------------------------------------------**
 
 # Raquel
 ## Book
@@ -24,6 +28,8 @@
 ## Sidequest
 - Won't Stan for This - After gathering intel in Raquel, talk to Chris in Town Square
 
+**------------------------------------------------------------------------------------------------**
+
 # Alster
 ## Vantage Masters
 - Tilia - Kai and Tilia's Residence
@@ -33,6 +39,8 @@
 - Visit north side of Alster
 ## Free Gifts
 - Talk to Sandy in Pub/Inn
+
+**------------------------------------------------------------------------------------------------**
 
 # August 13th
 ## Vantage Masters

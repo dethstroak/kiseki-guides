@@ -10,6 +10,8 @@
 ## Free Gifts
 - Witch Auler - Talk twice in Herbalist's Home
 
+**------------------------------------------------------------------------------------------------**
+
 # Saint-Arkh
 ## Book
 - The Chosen One Part 1 - Ablion Garden
@@ -27,6 +29,8 @@
 ## Vantage Master
 - Pablo - General Store after event
 
+**------------------------------------------------------------------------------------------------**
+
 # Titus Gate
 ## Scenic Picture
 - Titus Gate
@@ -35,6 +39,8 @@
 ## Optional Event
 - Talk to Albert
 - Talk to Margarite after event in Lodge
+
+**------------------------------------------------------------------------------------------------**
 
 # August 9th
 ## Vantage Masters

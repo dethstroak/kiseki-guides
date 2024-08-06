@@ -3,6 +3,8 @@
 ## Free Gifts
 - Talk to Witch Auler twice - Herbalist's House
 
+**------------------------------------------------------------------------------------------------**
+
 # August 15th
 # Crossbell City
 ## Books
@@ -25,6 +27,8 @@
 
 ## Progress the main story
 
+**------------------------------------------------------------------------------------------------**
+
 # Crossbell City
 ## Profile Notes
 - Sully - Villa Raisin 3F
@@ -33,6 +37,8 @@
 - NML Survey - Talk to Grace in Crossbell News Service building
 ## Optional Event
 - Check Old SSS Building 2F and 3F
+
+**------------------------------------------------------------------------------------------------**
 
 # Mishelam Resort
 ## Vantage Masters

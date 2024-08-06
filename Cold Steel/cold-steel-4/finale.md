@@ -26,6 +26,8 @@
  - Winning nets you 2 AP
   - Make backup save if you want to guarantee the AP
 
+**------------------------------------------------------------------------------------------------**
+
 # Sutherland Region
 ## Profile Notes
 - Fiona - Hyarms Mansion
@@ -43,6 +45,8 @@
 - Cat - Vander Training Hall @ Parm
 ## Sidequests
 - Ghosts of Hamel - Meet Renne on East Crossbell Highway 1
+
+**------------------------------------------------------------------------------------------------**
 
 # Lamare Region
 ## Profile Notes
@@ -67,6 +71,8 @@
 - The Alster Harvest Festival - Talk to Sandy in Sunny Spot Inn @ Alster
 - Missing Person Report - Talk to Harche or Meyer in Diana's General Store @ Milsante
 - Einhel Keep Monster
+
+**------------------------------------------------------------------------------------------------**
 
 # Crossbell Region
 ## Profile Notes
@@ -95,6 +101,8 @@
 - Tilulu - Near Stargazers' entrance
 ## Sidequests
 - Saving Officer Alan - Boathouse @ East Crossbell Highway 3
+
+**------------------------------------------------------------------------------------------------**
 
 # Courageous 2 (Part 2)
 ### If you have cleared every side quest in the Finale and have defeated the five cryptids, returning to the Courageous, you will receive a call from Toval. This will start the ??? quest. This is neccessary for the True Ending to the game.

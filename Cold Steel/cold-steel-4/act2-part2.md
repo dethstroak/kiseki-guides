@@ -10,9 +10,13 @@
 ## Optional Event
 - Visit Hotsprings with Angelica and 3 girls
 
+**------------------------------------------------------------------------------------------------**
+
 # Osgiliath Basin
 ## Scenic Picture
 - Southern part of the map
+
+**------------------------------------------------------------------------------------------------**
 
 # Lamare Region
 ## Profile Notes
@@ -25,6 +29,8 @@
 ## Recipe
 - Crispy Pickles - Purchase from Hermit Bar & Inn in Raquel
 
+**------------------------------------------------------------------------------------------------**
+
 # August 23rd
 # Sutherland Region
 ## Gifts
@@ -36,6 +42,8 @@
 ## Sidequests
 - Crazy Horse - Talk to Albert or Wonder in Cathedral Square
  - After gathering all intel
+
+**------------------------------------------------------------------------------------------------**
 
 # North Sutherland Highway
 ## Fishing

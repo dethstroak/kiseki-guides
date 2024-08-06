@@ -7,6 +7,8 @@
 ## Pom! Pom! Party!
 - Ash - Cafeteria
 
+**------------------------------------------------------------------------------------------------**
+
 # Sutherland Region
 ## Optional Event
 - Visit Hotspring with Randy and Tio
@@ -16,6 +18,8 @@
 ## Sidequests
 - Family Scattering - Lord Quinn @ Parm
 - The Hot Spots - Witch Dallier @ Eryn
+
+**------------------------------------------------------------------------------------------------**
 
 # Lamare Region
 ## Recipe
@@ -27,6 +31,8 @@
 ## Fishing
 - Estella - Lake Gala Byroad Summit
  - Requires talking to Kopan and Peter
+
+**------------------------------------------------------------------------------------------------**
 
 # The Pantagruel
 ## Vantage Masters

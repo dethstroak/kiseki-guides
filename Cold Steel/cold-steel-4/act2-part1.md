@@ -10,11 +10,15 @@
 ## Free Gifts
 - Talk with Witch Auler in Herbalist's Home
 
+**------------------------------------------------------------------------------------------------**
+
 # Merkabah
 ## Vantage Masters
 - Laura - Merkabah Interior
 ## Pom! Pom! Party!
 - Machias - Merkabah Interior
+
+**------------------------------------------------------------------------------------------------**
 
 # Bryonia Island
 ## Fishing
@@ -23,6 +27,8 @@
 - Spiky Puffer - Pier
 ## Scenic Picture
 - Ledge near Waterfall
+
+**------------------------------------------------------------------------------------------------**
 
 # August 20th
 # Merkabah
@@ -39,9 +45,13 @@
 ## Scenic Picture
 - Near Guardian Statue
 
+**------------------------------------------------------------------------------------------------**
+
 # Eryn
 ## Optional Event
 - Visit Hotsprings with Crow and Duvalie
+
+**------------------------------------------------------------------------------------------------**
 
 # Sutherland Region
 ## Vantage Masters
@@ -52,6 +62,8 @@
 - Elliot - Iris' Souveneirs stall
 ## Profile Notes
 - Kairi - Parm Chapel
+
+**------------------------------------------------------------------------------------------------**
 
 # August 21st
 # Ordis
