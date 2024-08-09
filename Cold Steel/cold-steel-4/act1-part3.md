@@ -40,6 +40,22 @@
 
 **------------------------------------------------------------------------------------------------**
 
+# Ursula Road
+## Scenic Picture
+- Ursula Road 2
+## Stella Shrine
+- Optional dungeon in the vein of the Shrines from CS2.
+
+**------------------------------------------------------------------------------------------------**
+
+# St Ursula Medical College
+## Recipe
+- XL Hashed Rice - Purchase from Le Lectier Inn
+## Optional Event
+- Talk to Albert in the Lobby
+
+**------------------------------------------------------------------------------------------------**
+
 # Mishelam Resort
 ## Vantage Masters
 - Mishy  Mishelam Theme Park

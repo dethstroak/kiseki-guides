@@ -68,6 +68,10 @@
 ## Vantage Master
 - Pablo - General Store after event
 **------------------------------------------------------------------------------------------------**
+# Old Agria Road
+## Draco Shrine
+- Optional dungeon in the vein of the Shrines from CS2.
+**------------------------------------------------------------------------------------------------**
 # Titus Gate
 ## Scenic Picture
 - Titus Gate

@@ -7,6 +7,12 @@
 
 **------------------------------------------------------------------------------------------------**
 
+# Magic Woods
+## Fishing
+- Rockeater - Magic Forest North
+
+**------------------------------------------------------------------------------------------------**
+
 # Milsante Town
 ## Book
 - If You Say Goodbye Part 1 - Diana's General Store
@@ -14,6 +20,14 @@
 - Minotauros - Diana's General Store
 ## Scenic Picture
 - White Bitch Inn - 2F Terrace
+
+**------------------------------------------------------------------------------------------------**
+
+# Laka Gala Byroad
+## Fishing
+- Skygill - Byroad North
+## Luna Shrine
+- Optional dungeon in the vein of the Shrines from CS2.
 
 **------------------------------------------------------------------------------------------------**
 

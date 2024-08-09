@@ -106,6 +106,8 @@
 
 # Courageous 2 (Part 2)
 ### If you have cleared every side quest in the Finale and have defeated the five cryptids, returning to the Courageous, you will receive a call from Toval. This will start the ??? quest. This is neccessary for the True Ending to the game.
+### Check the Finale Side Content Checklist for all the information on these.
+
 ## Profile Notes
 - KeA - During ??? sidequest
 - Toval - Completed ??? sidequest
