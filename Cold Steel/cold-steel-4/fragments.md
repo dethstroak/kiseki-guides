@@ -11,4 +11,4 @@
 - Talk with Liese in Lux Lunae
 - Talk with Euclase in Herbalist's House
 ## Sidequest
-- Repairing the Pendant - Speak with Grandolf or Emma in Gandolf's Orbal Factory
+- Repairing the Pendant - Speak with Gandolf or Emma in Gandolf's Orbal Factory

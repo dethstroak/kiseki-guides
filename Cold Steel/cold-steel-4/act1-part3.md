@@ -23,7 +23,7 @@
 ## Free Gift
 - Talk to Josette in East Crossbell Highway 3
 ## Optional Event
-- Talk to Imedla in her shop
+- Talk to Imelda in her shop
 
 ## Progress the main story
 

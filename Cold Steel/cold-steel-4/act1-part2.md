@@ -63,3 +63,4 @@
 - Emma - Rose's Atelier
 ## Sidequest
 - Erebonia 101 - Witch Auler in Herbalist's Home
+ - Option 2, Option 3, Option 1, Option 3
