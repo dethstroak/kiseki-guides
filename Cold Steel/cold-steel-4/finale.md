@@ -40,9 +40,9 @@
 ## Optional Events
 - Visit Dreknor Fortress
 ## Free Gifts
-- Aaroy - Lemuric General Store @ Eryn
+- Aaroy - Lemuric General Store in Eryn
 - Archbishop Ramsen - Saint-Arkh Cathedral
-- Cat - Vander Training Hall @ Parm
+- Cat - Vander Training Hall in Parm
 ## Sidequests
 - Ghosts of Hamel - Meet Renne on East Crossbell Highway 1
 
@@ -56,20 +56,20 @@
 - Beryl - Talk on Leeves Campus Rooftop
 - Rosine - Talk to Rosine in Leeves
 ## Recipes
-- Shrimp Cutlet Sandwich - Purchase recipe in Miranda's Tavern & Inn @ Ordis
+- Shrimp Cutlet Sandwich - Purchase recipe in Miranda's Tavern & Inn in Ordis
 - Filling Thors Lunch - Purchase recipe in Leeves Campus Cafeteria
 ## Scenic Picture
 - Juno Naval Fortress
 - Leeves Campus Rooftop
 ## Optional Events
-- Barney's Tavern & Inn 2F @ Leeves
-- Noble District @ Ordis
+- Barney's Tavern & Inn 2F in Leeves
+- Noble District in Ordis
 ## Free Gifts
-- Setsuna - Count Egret's Mansion @ Ordis
+- Setsuna - Count Egret's Mansion in Ordis
 - Archbishop Bramfeldt - Ordis Cathedral
 ## Sidequests
-- The Alster Harvest Festival - Talk to Sandy in Sunny Spot Inn @ Alster
-- Missing Person Report - Talk to Harche or Meyer in Diana's General Store @ Milsante
+- The Alster Harvest Festival - Talk to Sandy in Sunny Spot Inn in Alster
+- Missing Person Report - Talk to Harche or Meyer in Diana's General Store in Milsante
 - Einhel Keep Monster
 
 **------------------------------------------------------------------------------------------------**
@@ -100,7 +100,7 @@
 - Ken or Nana - Bellheim Apartments
 - Tilulu - Near Stargazers' entrance
 ## Sidequests
-- Saving Officer Alan - Boathouse @ East Crossbell Highway 3
+- Saving Officer Alan - Boathouse in East Crossbell Highway 3
 
 **------------------------------------------------------------------------------------------------**
 

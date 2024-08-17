@@ -1,9 +1,9 @@
 # August 29th
 # Courageous 2
 ## Books
-- Imperial Chronicle Issue 9 - Becky's Store @ Courageous 2F
+- Imperial Chronicle Issue 9 - Becky's Store in Courageous 2F
 ## Profile Notes
-- Becky - Talk to Becky in her store @ Courageous 2F
+- Becky - Talk to Becky in her store in Courageous 2F
 - Gustaf - Bridge 4F
 - Wayne - Completed "Persistent Study" sidequest
 - Kairi and Sidney - Completed "Herbal Supplements sidequest
@@ -14,14 +14,15 @@
 ## Gifts
 - Celine - Becky's Store 2F
 - Musse - Neinvalli Exchange 3F
- - Can buy items for exchange from Miranda's Tavern @ Ordis and Sunny Spot Inn @ Alster
+ - Alster Risotto - Sunny Spot Inn in Alster
+ - Miranda's Paella - Miranda's Tavern in Ordis
 ## Optional Events
 - Guest Bathrobes - Bath 3F
  - Put Sharon in party for her Bath Towel
 - Battle Training - After "Persistent Study" sidequest
 ## Sidequests
-- Persistent Study - Talk to Wayne or Jessica @ Training Room 3F
-- Herbal Supplements - Talk to Stark @ Conference Room 3F
+- Persistent Study - Talk to Wayne or Jessica in Training Room 3F
+- Herbal Supplements - Talk to Stark in Conference Room 3F
 
 **------------------------------------------------------------------------------------------------**
 
@@ -39,7 +40,7 @@
 
 # Lamare Region
 ## Profile Notes
-- Lucy and Alfin - After event in Cayenne Mansion @ Ordis
+- Lucy and Alfin - After event in Cayenne Mansion in Ordis
 - Ferris - West Lamare Training Camp
 - Emily - Recette Bakery & Cafe
 - Leonora - Completed "Super Swiming Showdown" sidequest
@@ -47,8 +48,8 @@
 ## Scenic Picture
 - North Languedoc Canyon
 ## Sidequest
-- Super Swiming Showdown - Miranda in Miranda's Tavern @ Ordis
-- Alster Asssistance - Kai and Tilia @ Alster
+- Super Swiming Showdown - Miranda in Miranda's Tavern in Ordis
+- Alster Asssistance - Kai and Tilia in Alster
 - North Languedoc Canyon Monster
 ## Optional Events
 - Visit Cayenne Mansion in Ordis
@@ -57,20 +58,20 @@
 
 # Crossbell City
 ## Books
-- If You Say Goodbye Part 3 - Neinvalli Exchange @ East Street
-- Three & Nine Chapter Nine - Sammie @ West Street
+- If You Say Goodbye Part 3 - Neinvalli Exchange in East Street
+- Three & Nine Chapter Nine - Sammie in West Street
 ## Profile Notes
-- Mint - Jazz Bar @ Entertainment District
+- Mint - Jazz Bar in Entertainment District
 - Jona and Tio - Old SSS Building
 - Munk - Long Lao Tavern & Inn
 - Jingo - Neinvalli Exchange
 ## Vantage Masters
-- Cao Lee - Heiyue Building @ Harbor District
+- Cao Lee - Heiyue Building in Harbor District
 ## Recipe
 - Cheesy Penne Gratin - Purchase from Vingt-Sept Cafe
 - Addictive Mapo Tofu - Purchase from Long Lao Tavern & Inn
 ## Gifts
-- Sharon - Barca Casino @ Entertainment District
+- Sharon - Barca Casino in Entertainment District
 - Claire - Imelda's Antique Shop
  - Needed for an event later to occur
 - Alisa - Neinvalli Exchange

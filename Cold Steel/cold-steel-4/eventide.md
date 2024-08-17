@@ -24,7 +24,7 @@
 ## Recipe
 - Imperial Tea - Purchase in Restaurant Fortuna
 ## Gifts
-- Aurelia - Purchase in Cendrillon
+- Aurelia - Cendrillon
 ## Pom! Pom! Party!
 - Olivert - Ferris Wheel Area
 - Renne - Castle of Mirrors

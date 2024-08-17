@@ -24,10 +24,20 @@
 - Edel - Noce Rest Lodge @ Old Lamare Road
 ## Gifts
 - Angelica - Alisha Casino in Raquel
+- Gaius - McEnroe's Pawn Shop in Raquel
+ - Decken Rib - Decken Pub & Inn
+ - Hermit Blue - Hermit Bar & Inn
 - Duvalie - Gasco's Store in Alster
-- Gaius - McEnroe's Pawn Shop
 ## Recipe
 - Crispy Pickles - Purchase from Hermit Bar & Inn in Raquel
+
+**------------------------------------------------------------------------------------------------**
+
+# Sutherland Region
+# Parm
+## Gifts
+- Setup for tomorrow:
+ - White Petite Croquette - White Footpath in Parm
 
 **------------------------------------------------------------------------------------------------**
 
@@ -37,6 +47,9 @@
 - Ash - Chardin Boutique in Albion Garden
 - Sara - Chamber's Orbal Factory
 - Crow - Demeter Exchange & Antique
+ - White Smoothie - Juice Stall in Cathedral Square
+ - White Petite Croquette - The White Footpath in Parm
+  - If you miss your chance of getting it in the previous day then you will just have to get this item on the next day.
 ## Recipe
 - Refreshing Berry Shake - Dyna's Juice Stall in Cathedral Square
 ## Sidequests

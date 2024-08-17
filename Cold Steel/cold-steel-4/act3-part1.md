@@ -11,6 +11,8 @@
 ## Gifts
 - Roselia - Becky's Store 2F
 - Randy - Neinvalli Exchange 2F
+ - Fresh Grape Juice - Store in Alster (Guide doesn't list exactly where, would assume Gasco's)
+ - Souffle Pancakes - Recette Bakery & Cafe in Leeves
 ## Master Quartz
 - Oberon - Tita's Tech Team 1F
 ## Optional Event

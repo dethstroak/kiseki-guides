@@ -14,16 +14,16 @@
 - Visit Hotspring with Randy and Tio
  - After completing "The Hot Spots" sidequest
 ## Gifts
-- Laura and Jusis - Lemuric General Store @ Eryn
+- Laura and Jusis - Lemuric General Store in Eryn
 ## Sidequests
-- Family Scattering - Lord Quinn @ Parm
-- The Hot Spots - Witch Dallier @ Eryn
+- Family Scattering - Lord Quinn in Parm
+- The Hot Spots - Witch Dallier in Eryn
 
 **------------------------------------------------------------------------------------------------**
 
 # Lamare Region
 ## Recipe
-- Alster Plate - Purchase from Sunny Spot Inn @ Alster
+- Alster Plate - Purchase from Sunny Spot Inn in Alster
 ## Book
 - Three & Nine Chapter 7 - Talk to Tilia near Steinrose Distillery
 ## Sidequest
