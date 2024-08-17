@@ -2,6 +2,8 @@
 # Merkabah
 ## Books
 - Imperial Chronicles Issue 7 - Store
+## Bonding Event
+ - Jusis - This bonding event gives Jusis cosmetics
 ## Vantage Masters
 - Celine and Ash - Cafeteria
 ## Pom! Pom! Party!

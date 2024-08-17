@@ -31,6 +31,8 @@
 - Louise and Tatiana - Complete "Clearing the Airwaves" sidequest
 - Maya - Complete "A Father-Daughter Bout" sidequest
 - Kaela - Complete "A Herculean Task" sidequest
+## Bonding Events
+ - Kurt - This bonding event gives Kurt cosmetics
 ## Vantage Master
 - Jusis - 1F
 - Kaela - Talk to her after completing "A Herculean Task" sidequest
