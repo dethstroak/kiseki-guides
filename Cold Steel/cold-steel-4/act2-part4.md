@@ -32,7 +32,7 @@
 - Avon Hills Monster
 ## Fishing
 - Estella - Lake Gala Byroad Summit
- - Requires talking to Kopan and Peter
+ - Requires talking to Kopan and Peter in White Birch in in Milsante
 
 **------------------------------------------------------------------------------------------------**
 
