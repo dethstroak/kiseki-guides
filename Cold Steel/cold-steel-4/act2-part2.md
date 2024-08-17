@@ -31,6 +31,13 @@
 ## Recipe
 - Crispy Pickles - Purchase from Hermit Bar & Inn in Raquel
 
+# Alster
+# Semi-required Quests
+- Brandy Recognition
+ - Merkabah Workshop
+ - Gandolf's Orbal Factory in Eryn
+ - Dwight Arms & Orbal Factory in Parm
+
 **------------------------------------------------------------------------------------------------**
 
 # Sutherland Region
