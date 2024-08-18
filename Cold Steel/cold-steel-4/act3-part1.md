@@ -90,7 +90,7 @@
 - Valerie - 2F
 - Wayne - 2F
 - Stark - 2F
--Dorothee - 2F
+- Dorothee - 2F
 ## Vantage Masters
 - Sara - 4F
 ## Optional Events
