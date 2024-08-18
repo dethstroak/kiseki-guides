@@ -11,14 +11,14 @@
 ## Gifts
 - Roselia - Becky's Store 2F
 - Randy - Neinvalli Exchange 2F
- - Fresh Grape Juice - Store in Alster (Guide doesn't list exactly where, would assume Gasco's)
+ - Fresh Grape Juice - Gasco's in Alster
  - Souffle Pancakes - Recette Bakery & Cafe in Leeves
 ## Master Quartz
 - Oberon - Tita's Tech Team 1F
 ## Optional Event
 - Visit Bath in 3F
 
-**------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------**
 
 # Courageous 2 (After Luna Sanctuary)
 ## Books
@@ -44,7 +44,7 @@
 ## Optional Events
 - Duvalie - Training Hall 3F
 
-**------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------**
 
 # Sutherland Region
 ## Books
@@ -56,7 +56,7 @@
 - Eryn Hotsprings with Old Class VII girls
  - Alisa, Fie, Emma, Laura, Sara
 
-**------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------**
 
 # Lamare Region
 ## Profile Notes
@@ -77,7 +77,8 @@
 ## Optional Event
 - Visit Cayenne Mansion in Ordis
 - Luna Sanctuary Altar - Cosmetic Item
-**------------------------------------------------------------------------------------------------**
+
+**----------------------------------------------------------------------------------**
 
 # August 28th
 # Courageous 2
