@@ -40,7 +40,10 @@
 ## Sidequest
 - "Clearing The Airwaves" - Talk to Valerie
 - "A Father-Daughter bout" - Talk to Maya in 1F
+ - Choices: 2 1 1
 - "Interview with Nielsen" - Talk to Nielsen in Old Lamare Road Resting Lodge
+- "The Radio Stars Reborn"
+ - Choices: 2 1 1 2
 ## Optional Events
 - Duvalie - Training Hall 3F
 
