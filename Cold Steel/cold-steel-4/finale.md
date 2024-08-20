@@ -26,7 +26,7 @@
  - Winning nets you 2 AP
   - Make backup save if you want to guarantee the AP
 
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 
 # Sutherland Region
 ## Profile Notes
@@ -46,7 +46,7 @@
 ## Sidequests
 - Ghosts of Hamel - Meet Renne on East Crossbell Highway 1
 
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 
 # Lamare Region
 ## Profile Notes
@@ -72,7 +72,7 @@
 - Missing Person Report - Talk to Harche or Meyer in Diana's General Store in Milsante
 - Einhel Keep Monster
 
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 
 # Crossbell Region
 ## Profile Notes
@@ -102,7 +102,7 @@
 ## Sidequests
 - Saving Officer Alan - Boathouse in East Crossbell Highway 3
 
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 
 # Courageous 2 (Part 2)
 ### If you have cleared every side quest in the Finale and have defeated the five cryptids, returning to the Courageous, you will receive a call from Toval. This will start the ??? quest. This is neccessary for the True Ending to the game.

@@ -10,7 +10,7 @@
 ## Free Gifts
 - Witch Auler - Talk twice in Herbalist's Home
 
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 
 # Saint-Arkh
 ## Book
@@ -29,7 +29,7 @@
 ## Vantage Master
 - Pablo - General Store after event
 
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 
 # Titus Gate
 ## Scenic Picture
@@ -49,7 +49,7 @@
 - Noct Watch - Gandolf's Orbal Factory
 ## Free Gifts
 - Witch Auler - Talk twice in Herbalist's Home
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 # Saint-Arkh
 ## Book
 - The Chosen One Part 1 - Ablion Garden
@@ -57,7 +57,7 @@
 - Delicate Millefeuille - Purchase from Cafe/Inn "April"
 ## Master Quartz
 - Moebius - Purchase from Orbal Factory Chambers
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 # Parm
 ## Book
 - Three and Nine Chapter 2 - Lakelord II @ Inn/Pub - The White Footpath
@@ -67,11 +67,11 @@
 - Herb Helper - Father Hobbins @ Chapel
 ## Vantage Master
 - Pablo - General Store after event
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 # Old Agria Road
 ## Draco Shrine
 - Optional dungeon in the vein of the Shrines from CS2.
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 # Titus Gate
 ## Scenic Picture
 - Titus Gate
@@ -80,14 +80,14 @@
 ## Optional Event
 - Talk to Albert
 - Talk to Margarita after event in Rest Area
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 # August 9th
 ## Vantage Masters
 - Eliot - Rose's Atelier
 ## Sidequest
 - Moonlight Mandrake Special - Talk to Liese @ Pub/Inn - Lux Lunae
 
-**----------------------------------------------------------------------------------**
+----------------------------------------------------------------------------------
 
 # August 9th
 ## Vantage Masters
