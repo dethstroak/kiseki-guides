@@ -7,7 +7,7 @@
 - Randy - Morges Bakery in West Street
 - Elie - Civic Center in Admin District
 ## Recipes
-- Mapo Tofu - Long Lao Tavern & Inn - East Street
+- Mapo Tofu - Long Lao Tavern & Inn in East Street
 - Impromptu Potato Salad - Garante Jazz Bar in Entertainment District
 ## Fishing
 - Custom Handle - Fisherman's Guild in East Street
