@@ -59,7 +59,7 @@
 # Crossbell City
 ## Books
 - If You Say Goodbye Part 3 - Neinvalli Exchange in East Street
-- Three & Nine Chapter Nine - Sammie in West Street
+- Three & Nine Chapter 9 - Sammie in West Street
 ## Profile Notes
 - Mint - Jazz Bar in Entertainment District
 - Jona and Tio - Old SSS Building
