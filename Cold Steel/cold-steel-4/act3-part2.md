@@ -28,7 +28,7 @@
 
 # Sutherland Region
 ## Sidequests
-- Operation: Free Eryn - Try to fly to Eryn, then visit on foot via teleportation stone to complete this quest"
+- Operation: Free Eryn - Try to fly to Eryn, then visit on foot via teleportation stone to complete this quest
  - Completing this sidequest will give you an additional bonding point
  - This also opens up Elise's special bonding event on the Courageous 2
 ## Profile Notes
@@ -42,7 +42,7 @@
 ## Profile Notes
 - Lucy and Alfin - After event in Cayenne Mansion in Ordis
 - Ferris - West Lamare Training Camp
-- Emily - Recette Bakery & Cafe
+- Emily - Recette Bakery & Cafe in Leeves
 - Leonora - Completed "Super Swiming Showdown" sidequest
 - Hugo - Completed "Alster Assistance" sidequest
 ## Scenic Picture
