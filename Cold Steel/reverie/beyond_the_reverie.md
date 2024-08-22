@@ -6,5 +6,5 @@
 - There are a few more characters that can be unlocked here
 - Make sure to get the appropriate sealing stones for unlocking Daydreams as needed
 - Hint for the final boss:
-    - || Equip deathblow resistance accessories ||
-    - || Make sure your strongest team is Team C ||
+ - || Equip deathblow resistance accessories ||
+ - || Make sure your strongest team is Team C ||
