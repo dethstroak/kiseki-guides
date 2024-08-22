@@ -59,6 +59,7 @@
 # Crossbell City
 ## Books
 - If You Say Goodbye Part 3 - Neinvalli Exchange in East Street
+ - Vingt-Sept Hamburger Steak - Vingt-Sept Cafe in Central Square
 - Three & Nine Chapter 9 - Sammie in West Street
 ## Profile Notes
 - Mint - Jazz Bar in Entertainment District
@@ -75,6 +76,8 @@
 - Claire - Imelda's Antique Shop
  - Needed for an event later to occur
 - Alisa - Neinvalli Exchange
+ - Bellberry Ice Cream - Ice cream stand in Entertainment District
+ - Crunchy Melon Bun - Morges Bakery in West Street
 - Elise - Business Owners' Association
 ## Optional Event
 - See Renne in Harbor
