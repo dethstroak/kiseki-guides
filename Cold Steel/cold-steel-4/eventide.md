@@ -38,7 +38,7 @@
 ## Optional Event
 - Extra Ticket
  - Win against Toval in Vantage Master
- - Feed the cat a Lakeside Trout on the Lakeside Beach
+ - Feed the cat a Rainbow Trout on the Wharf
  - Talk to Anton after Sharon's event
  - Completed "Ladies' Night" quest
 - After Cassius' event
