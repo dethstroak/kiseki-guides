@@ -17,6 +17,7 @@
 - Mishelam Fortune Teller @ Castle of Mirrors
 - Stella Sanctuary Altar
 - Orchis Tower Rooftop
+ - Go there via Geofront X Sector 1 in Entertainment District
 # Black Zemurian Ore
 - Report to Dorothee with all books collected
 
