@@ -23,6 +23,7 @@
 # Courageous 2 (After Luna Sanctuary)
 ## Books
 - Imperial Chronicle Issue 8 - Becky's Store 2F
+- Black Records - Complete "Interview with Nielsen" sidequest
 ## Profile Notes
 - Sandy - Bridge 4F
 - Gustaf - 2F
