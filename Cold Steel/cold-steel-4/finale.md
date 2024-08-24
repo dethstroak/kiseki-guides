@@ -70,6 +70,7 @@
 ## Sidequests
 - The Alster Harvest Festival - Talk to Sandy in Sunny Spot Inn in Alster
 - Missing Person Report - Talk to Harche or Meyer in Diana's General Store in Milsante
+ - Choices: 3 5 2
 - Einhel Keep Monster
 
 ----------------------------------------------------------------------------------
@@ -114,7 +115,7 @@
 ## Vantage Masters
 - Victor - 3F
 ## Master Quartz
-- Woden - Defeated all Vantage Master opponents.
+- Woden - Defeated all Vantage Master opponents
 ## Optional Events
 - Munk and Rex - 2F
 ## Sidequests
