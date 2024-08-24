@@ -76,6 +76,8 @@
 ----------------------------------------------------------------------------------
 
 # Crossbell Region
+## Books
+- Three and Nine Chapter 10 - Kargo in St Ursula Medical College
 ## Profile Notes
 - Grace - Long Lao Tavern & Inn
 - Jona - Saw the event in Geofront X
