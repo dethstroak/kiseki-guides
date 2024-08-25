@@ -1,4 +1,8 @@
 # Before Starting
+## Settings
+- Camera Angle Resetting
+- Active Voice Settings
+- Turbo Settings
 ## Save Data Bonuses
 - Trails from Zero - All Sepith x200
 - Trails to Azure - All Sepith x600
