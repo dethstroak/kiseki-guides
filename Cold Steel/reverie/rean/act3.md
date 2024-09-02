@@ -2,8 +2,6 @@
 # Nord Highlands
 ## Recipes
 - Spicy Kebab - Purchase from Sharl
-## Books
-- Moonless Morn Chapters 9, 10, 11 - Le Lectier Inn
 ## Fishing
 - Puffer - Northeastern corner of Northern Highlands
 ## Optional Events
