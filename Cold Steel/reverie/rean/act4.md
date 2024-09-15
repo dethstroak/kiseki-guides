@@ -10,7 +10,6 @@
 - Moonless Morn Chapter 12, 13, 14 - Cendrillon inside Mishelam
 ## Recipes
 - Marbled Steak - Restaurant Fortuna
-- Impromptu Potato Salad - Garante Jazz Bar in Entertainment District
 ## Fishing
 - Pink Azelfish - Mishelam Beach
 - Elecantus - Mishelam Wharf
