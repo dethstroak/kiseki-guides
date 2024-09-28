@@ -8,3 +8,6 @@
 # Prison
 ## Recipe
 - Manly Munchies: Prison Food - Inside chest in Prison 2F
+## Optional Events
+- Regenkompf - Optional Boss
+ - Gives RP for completion
