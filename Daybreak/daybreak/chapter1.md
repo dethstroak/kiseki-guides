@@ -33,5 +33,3 @@
 - Cat Gone Astray
 # Optional Event
 - Check in with the woman walking around the first floor of the inn during the evening. She has unique dialogue that isn't story relevant but you might find cool
-# Cutscene Choices
-- 3rd Option || Through Northwest HWY Through Ored or Remiferia ||
