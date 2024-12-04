@@ -13,7 +13,7 @@
 - Rebecca in Stanley's Factory
 ## Sidequest
 - The Brave Little Wallet
- - Choices: 3 2
+  - Choices: 3 2
 # Optional Event
 - Enter Giacomo's hideout
 # Cutscene Choices
@@ -28,7 +28,7 @@
 - Canvas Tote - Focken's Goods
 ## Sidequest
 - Feasts from the East
- - Choices: 2 2
+  - Choices: 2 2
 - A Burgled Bicycle
 - Cat Gone Astray
 # Optional Event
