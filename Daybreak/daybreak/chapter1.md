@@ -4,8 +4,6 @@
 - Soul Chef: Cookie - Holden Foods
 ## Driver
 - Celebrate - Iota Workshop Counter
-## Exchange
-- Noct Watch - Gandolf's Orbal Factory
 ## Gifts
 - Cartoon Handkerchief - Jardin Boutique
 ## Free Gifts
