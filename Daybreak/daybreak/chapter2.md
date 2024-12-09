@@ -17,7 +17,7 @@
 ### Gifts
 - Walking Edith - Stuart Bookstore
 ### Food
-- Caramel Corn -Porco's Refereshments
+- Caramel Corn - Porco's Refereshments
 - Nami's Ice Cream Parlor
   - Strawberry Milk Ice Cream
   - Apple Gelato
