@@ -52,6 +52,8 @@
 ## Tyrell District
 - Go see a movie and buy the brochure after
   - IF YOU HAVE NOT SEEN "This Side of Heaven" see it now, it will not be back in theaters after this
+## Connect Events
+- If you want to max Fie's connect, you need to do her event
 ## Sidequest
 - Lost and Found
 ----------------------------------------------------------------------------------
