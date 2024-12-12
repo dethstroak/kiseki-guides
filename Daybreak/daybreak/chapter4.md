@@ -19,7 +19,8 @@
 - Chocolate Rice Tacos - Gordon's Taco Stand
 ### Optional Events
 - Renne - Outside Cafe & Bar Bermotti
-### Station Street
+## Station Street
+### Optional Events
 - Elaine - Bracer Guild
 ### Driver
 - Strom - Iota Workshop Counter
