@@ -53,7 +53,7 @@
 ## Sidequest
 - What Once Was Lost
   - Law: || Talk Him Out Of It ||
-  - Gray || Pretend to Abandon Him ||
+  - Gray: || Pretend to Abandon Him ||
 ----------------------------------------------------------------------------------
 # September 20th Day
 ### Cutscene Choices
