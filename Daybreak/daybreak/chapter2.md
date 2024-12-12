@@ -92,7 +92,7 @@
 - In a Foreign Land
 - Special Delivery
   - Gray: || Persuade Them ||
-  - Chaos || Fight ||
+  - Chaos: || Fight ||
 - Tour de Force
 ----------------------------------------------------------------------------------
 # September 20th Night
