@@ -87,10 +87,11 @@
 ### Recipe
 - Soul Chef: Cocoa - McMillan Café
 ### Food
-- Mini Curros - Porco's Refreshments
+- Mini Churros - Porco's Refreshments
 - Caiyunge Eastern Restaurant
   - Moon Cake
-  - Yellow Dragon Tea
+### Gifts
+- Yellow Dragon Tea - Caiyunge Eastern Restaurant
 ## Connect Events
 - Shizuna's is really good here
 ## Forging an Ultimate Weapon
