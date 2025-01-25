@@ -88,8 +88,7 @@
 - Soul Chef: Cocoa - McMillan Café
 ### Food
 - Mini Churros - Porco's Refreshments
-- Caiyunge Eastern Restaurant
-  - Moon Cake
+- Moon Cake - Caiyunge Eastern Restaurant
 ### Gifts
 - Yellow Dragon Tea - Caiyunge Eastern Restaurant
 ## Connect Events
