@@ -28,7 +28,7 @@
 - Sunshine Agnès #3 - Speak to Imelda in Imelda's Antique Shop
 ## Downtown District
 - Ries is here
-- Ignis
+- Visit Ignis
 ## Bellguard Gate
 - Miereille on 2F
 - Commander Baelz on 2F
@@ -109,7 +109,7 @@
 ### Books
 - Crossbell Times #3 - Times Department Store
 ## Crossbell Cathedral
-- Cemetery
+- Visit Cemetery
 ## Amorica Village
 ### Books
 - Sunshine Agnès #5 - Speak with man on left side of the counter in Ash Tree Inn
