@@ -120,7 +120,7 @@
 - Room 304 - Speak to Shizuku
 ## Sidequest
 - **Hidden Quest**: Dark Side of the Moon
-  - Visit the Moon Temple
+  - Visit the Moon Temple to initiate
 - Ursula Road Monster Extermination
 - Inspection on the Rails
   - Choices: || 2nd ||
