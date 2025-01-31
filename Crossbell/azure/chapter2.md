@@ -125,3 +125,5 @@
 - Inspection on the Rails
   - Choices: || 2nd ||
 - Dollnapped
+## Before Orchis Tower:
+- Note: It is highly recommended you cook a failure dish until you receive cat food from it, you will need it for the next issue of Sunshine Agnès on the next chapter.
