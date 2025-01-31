@@ -49,8 +49,8 @@
 ## Sidequest
 - Maison Imelda Monster Extermination
 - **Hidden Quest**: The Fast and the Injurious
- - After completing other requests, visit Resident District for an event, then speak to Officer Kate in the Entertainment District
- - Choices: || 3rd, 2nd ||
+  - After completing other requests, visit Resident District for an event, then speak to Officer Kate in the Entertainment District
+  - Choices: || 3rd, 2nd ||
 ----------------------------------------------------------------------------------
 # Crossbell Police Academy
 ## Collectibles
@@ -77,7 +77,7 @@
 - Speak to Sully in east house
 ## Sidequest
 - **Hidden Quest**: Inside Scoop: The Cult Incident
- - Choices: || 3rd, 2nd, 2nd ||
+  - Choices: || 3rd, 2nd, 2nd ||
 - Mainz Mountain Path Monster Extermination
 ----------------------------------------------------------------------------------
 # Mainz Mining Village
