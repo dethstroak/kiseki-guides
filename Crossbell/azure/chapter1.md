@@ -10,7 +10,6 @@
 ## Entertainment District
 - Arc en Ciel - Enter the main stage
 ## Residential District
-### Optional Event
 - Hayworth Residence - Speak to Harold, Sofia, or Colin
 ## IBC
 ### Free Gifts
