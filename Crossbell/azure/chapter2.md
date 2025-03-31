@@ -77,7 +77,7 @@
 - Speak to Pinwheel vendor at bottom left of the map
 - Long Lao Tavern & Inn - Speak to Grace
 ## Central Square
-### optional Event
+### Optional Event
 - Vingt-Sept Cafe - Speak to Kilika on 2F
 ## Crossbell Cathedral
 ### Optional Event
