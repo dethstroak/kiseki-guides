@@ -19,12 +19,6 @@
 ### Books
 - Sunshine Agnès #13 - Farrah in St. Ursula Medical College Room 302 
 ----------------------------------------------------------------------------------
-# Moon Temple
-- All MSQ
-----------------------------------------------------------------------------------
-# Stargazer's Tower
-- All MSQ
-----------------------------------------------------------------------------------
 # Retaking Crossbell
 ## Downtown District
 - Trinity Bar - Event upon entering if Wazy is in party
