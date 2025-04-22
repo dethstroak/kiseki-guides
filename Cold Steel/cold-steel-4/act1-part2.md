@@ -1,6 +1,6 @@
 # August 10th
 # Avon Hills
-## Book
+## Books
 - Imperial Chronicles Issue 3 - Purchase from Lemuric General Goods
 ## Free Gifts
 - Witch Auler - Herbalist Home
@@ -14,7 +14,7 @@
 ----------------------------------------------------------------------------------
 
 # Milsante Town
-## Book
+## Books
 - If You Say Goodbye Part 1 - Diana's General Store
 ## Master Quartz
 - Minotauros - Diana's General Store
@@ -32,8 +32,8 @@
 ----------------------------------------------------------------------------------
 
 # Raquel
-## Book
-- Three and Nine Chapter 3 - Majorie @ Casino 2F
+## Books
+- Three and Nine Chapter 3 - Majorie in Casino 2F
 ## Vantage Masters
 - Sister Olfa - Raquel Chapel
 ## Recipe

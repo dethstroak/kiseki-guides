@@ -1,6 +1,6 @@
 # August 22nd
 # Merkabah
-## Book
+## Books
 - Imperial Chronicles Issue 6 - Merkabah Store
 ## Vantage Masters
 - Angelica - Downstairs
@@ -21,7 +21,7 @@
 # Lamare Region
 ## Profile Notes
 - Leonora - West Lamare Exercise Camp
-- Edel - Noce Rest Lodge @ Old Lamare Road
+- Edel - Noce Rest Lodge in Old Lamare Road
 ## Gifts
 - Angelica - Alisha Casino in Raquel
 - Gaius - McEnroe's Pawn Shop in Raquel

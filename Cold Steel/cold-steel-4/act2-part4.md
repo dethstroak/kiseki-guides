@@ -26,7 +26,7 @@
 # Lamare Region
 ## Recipe
 - Alster Plate - Purchase from Sunny Spot Inn in Alster
-## Book
+## Books
 - Three & Nine Chapter 7 - Talk to Tilia near Steinrose Distillery
 ## Sidequest
 - Avon Hills Monster

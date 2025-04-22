@@ -12,25 +12,6 @@
 
 ----------------------------------------------------------------------------------
 
-# Saint-Arkh
-## Book
-- The Chosen One Part 1 - Ablion Garden
-## Recipe
-- Delicate Millefeuille - Purchase from Cafe/Inn "April"
-## Master Quartz
-- Moebius - Purchase from Orbal Factory Chambers
-# Parm
-## Book
-- Three and Nine Chapter 2 - Lakelord II @ Inn/Pub - The White Footpath
-## Fishing
-- Carp - Near Spinning Mill
-## Sidequest
-- Herb Helper - Father Hobbins @ Chapel
-## Vantage Master
-- Pablo - General Store after event
-
-----------------------------------------------------------------------------------
-
 # Titus Gate
 ## Scenic Picture
 - Titus Gate
@@ -51,7 +32,7 @@
 - Witch Auler - Talk twice in Herbalist's Home
 ----------------------------------------------------------------------------------
 # Saint-Arkh
-## Book
+## Books
 - The Chosen One Part 1 - Ablion Garden
 ## Recipe
 - Delicate Millefeuille - Purchase from Cafe/Inn "April"
@@ -59,12 +40,12 @@
 - Moebius - Purchase from Orbal Factory Chambers
 ----------------------------------------------------------------------------------
 # Parm
-## Book
-- Three and Nine Chapter 2 - Lakelord II @ Inn/Pub - The White Footpath
+## Books
+- Three and Nine Chapter 2 - Lakelord II in Inn/Pub - The White Footpath
 ## Fishing
 - Carp - Near Spinning Mill
 ## Sidequest
-- Herb Helper - Father Hobbins @ Chapel
+- Herb Helper - Father Hobbins in Chapel
 ## Vantage Master
 - Pablo - General Store after event
 ----------------------------------------------------------------------------------
@@ -85,12 +66,4 @@
 ## Vantage Masters
 - Eliot - Rose's Atelier
 ## Sidequest
-- Moonlight Mandrake Special - Talk to Liese @ Pub/Inn - Lux Lunae
-
-----------------------------------------------------------------------------------
-
-# August 9th
-## Vantage Masters
-- Eliot - Rose's Atelier
-## Sidequest
-- Moonlight Mandrake Special - Talk to Liese @ Pub/Inn - Lux Lunae
+- Moonlight Mandrake Special - Talk to Liese in Pub/Inn - Lux Lunae

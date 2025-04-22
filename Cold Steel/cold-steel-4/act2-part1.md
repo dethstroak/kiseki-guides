@@ -1,6 +1,6 @@
 # August 19th
 # Eryn
-## Book
+## Books
 - Imperial Chronicles Issue 5 - Lemuric General Store
 ## Vantage Masters
 - Roselia - Rose's Atelier
@@ -67,9 +67,9 @@
 
 # August 21st
 # Ordis
-## Book
+## Books
 - Three and Nine Chapter 5- Talk to Sailor Basani in Harbor District
-- If You Say Goodbye Part 2 - Manista's Bookstore @ Kleist Mall
+- If You Say Goodbye Part 2 - Manista's Bookstore in Kleist Mall
 ## Recipe
 - Bittersweet Tomato Gelato - Purchase from Jacqueline's Ice Cream Stall
 - Sea Breeze Bouillabaisse - Purchase from Sea Breeze Tarvern & Inn
@@ -81,7 +81,7 @@
 - Vincent - After completing "Riviera Runaround"
 ## Gifts
 - Kurt - Riviera Court after completing "Riviera Runaround"
-- Machias - RF Store @ Kleist Mall
+- Machias - RF Store in Kleist Mall
 - Fie - Strauss Orbal Factory
 ## Sidequest
 - Riviera Runaround - Visit Riviera Court in Business District

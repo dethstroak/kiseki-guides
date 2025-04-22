@@ -8,7 +8,7 @@
 ----------------------------------------------------------------------------------
 
 # Sutherland Region
-## Book
+## Books
 - Three & Nine Chapter 6 - Recruit Nash at Titus Gate
 ## Optional Events
 - Visit Hotsprings with Tita and Agate

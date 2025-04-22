@@ -14,7 +14,7 @@
 - Draco Shrine Altar
 - Osgiliath Basin
 - Bryonia Island - Upper top ledge near Giant Statues
-- Mishelam Fortune Teller @ Castle of Mirrors
+- Mishelam Fortune Teller in Castle of Mirrors
 - Stella Sanctuary Altar
 - Orchis Tower Rooftop
  - Go there via Geofront X Sector 1 in Entertainment District

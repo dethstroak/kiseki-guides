@@ -1,5 +1,5 @@
 # Eryn
-## Book
+## Books
 - The Chosen One Part 2 - Lemuric General Store
 ## Pom! Pom! Party!
 - Estelle - Speak to Renne in Lemuric General Store

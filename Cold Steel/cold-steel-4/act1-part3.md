@@ -10,7 +10,7 @@
 ## Books
 - Imperial Chronicles Issue 4 - Times Department Store
 - A Coco Panda's Tale Part 1 - Times Department Store
-- Three & Nine Chapter 4 - Talk to Flotte @ Vingt-Sept Cafe
+- Three & Nine Chapter 4 - Talk to Flotte in Vingt-Sept Cafe
 ## Vantage Masters
 - Shanshan - Long Lao Tavern & Inn
 ## Fishing
