@@ -1,7 +1,7 @@
 # August 7th
 # Eryn
 ## Books
-- Imperial Chronicles issue 2 - Lemuric General Goods
+- Imperial Chronicles Issue 2 - Lemuric General Goods
 - Three & Nine Chapter 1 - Sigyn in Fortune Teller's House
 ## Fishing
 - Kasagin, Snow Crap, Cangiru, Carp - Eryn Pond
