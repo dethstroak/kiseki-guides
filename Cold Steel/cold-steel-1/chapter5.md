@@ -43,7 +43,7 @@
 ## Recipe
 - Refreshing Pasta Soup - Speak with Seria in the Aprikoze Inn twice
 ## Books
-- Carnelia Reprint 8 - Purchase from Watteau's Store
+- Carnelia Reprint 9 - Purchase from Watteau's Store
 ## Sidequest
 - Many Hands Make Light Work
 - Ebel Highway Monster
