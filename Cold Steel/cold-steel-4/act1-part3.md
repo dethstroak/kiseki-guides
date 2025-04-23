@@ -47,7 +47,7 @@
 ----------------------------------------------------------------------------------
 # Mishelam Resort
 ## Vantage Masters
-- Mishy  Mishelam Theme Park
+- Mishy - Mishelam Theme Park
 ## Scenic Picture
 - Mishelam Theme Park
 ## Sidequest
