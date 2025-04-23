@@ -4,6 +4,7 @@
 - Kenneth - Fishing Club (Student Union building)
 ## Books
 - New books to read in the School Library
+- Imperial Chronicle #4 - Purchase from Keynes' Bookstore
 ## Optional Events
 - Elliot - Main Building 1F East Hallway
 - Fie - Main Building Rooftop
@@ -65,9 +66,10 @@
   - Will advance the main story upon completion
 ----------------------------------------------------------------------------------
 # July 26th - Day
-## Sidequest
-- **Hidden Quest** : In Case of Emergency - Visit Vainquer Street and speak to Bond, the man holding the briefcase, near Plaza Bifrost
 ## Main Story
 - When going to Mater Park, go via the Underground Passage from Hotel Der Himmel in the Garnier District, this will net you 2 AP that you will miss by going to Mater Park directly
 ## Books
 - Red Moon Rose #9 - Speak with Tim (brown hair and glasses NPC) in the southeast of Mater Park
+- Imperial Chronicle #5 - Purchase from bookstore inside Plaza Bifrost
+## Sidequest
+- **Hidden Quest** : In Case of Emergency - Visit Vainquer Street and speak to Bond, the man holding the briefcase, near Plaza Bifrost

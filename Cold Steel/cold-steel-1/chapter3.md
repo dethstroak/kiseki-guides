@@ -14,6 +14,8 @@
 ## Profile Notes
 - Clara - Art Room (Main Building 2F)
 - Theresia - School Library
+## Books
+- Imperial Chronicles #3 - Purchase from Keynes' Bookstore
 ----------------------------------------------------------------------------------
 # Midterms
 - Choices: || 2nd, 1st, 4th, 3rd, 3rd, 2nd ||
@@ -38,8 +40,6 @@
 - **Hidden Quest** : A Sticky Situation - Speak with Munk in the Courtyard behind the Main Building
 ----------------------------------------------------------------------------------
 # June 26th - Morning before leaving Trista
-## Books
-- Imperial Chronicles #3 - Purchase from Keynes' Bookstore
 # Optional Events
 - Talk to the cat in the park
 ----------------------------------------------------------------------------------
