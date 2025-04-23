@@ -2,9 +2,7 @@
 # Eryn
 ## Free Gifts
 - Talk to Witch Auler twice - Herbalist's House
-
 ----------------------------------------------------------------------------------
-
 # August 15th
 # Crossbell City
 ## Books
@@ -24,11 +22,8 @@
 - Talk to Josette in East Crossbell Highway 3
 ## Optional Event
 - Talk to Imelda in her shop
-
 ## Progress the main story
-
 ----------------------------------------------------------------------------------
-
 # Crossbell City
 ## Profile Notes
 - Sully - Villa Raisin 3F
@@ -37,25 +32,19 @@
 - NML Survey - Talk to Grace in Crossbell News Service building
 ## Optional Event
 - Check Old SSS Building 2F and 3F
-
 ----------------------------------------------------------------------------------
-
 # Ursula Road
 ## Scenic Picture
 - Ursula Road 2
 ## Stella Shrine
 - Optional dungeon in the vein of the Shrines from CS2.
-
 ----------------------------------------------------------------------------------
-
 # St Ursula Medical College
 ## Recipe
 - XL Hashed Rice - Purchase from Le Lectier Inn
 ## Optional Event
 - Talk to Albert in the Lobby
-
 ----------------------------------------------------------------------------------
-
 # Mishelam Resort
 ## Vantage Masters
 - Mishy  Mishelam Theme Park
@@ -63,4 +52,4 @@
 - Mishelam Theme Park
 ## Sidequest
 - The Search for Colin - Speak with the Hayworths near the Ferris Wheel
- - After visiting all Mishelam attractions
+  - After visiting all Mishelam attractions

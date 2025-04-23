@@ -1,7 +1,6 @@
 # Courageous II (Part 1)
 ## Books
-- Imperial Chronicle: Special Joint Issue
- - Becky's Store (Courageous 2F)
+- Imperial Chronicle: Special Joint Issue - Becky's Store (Courageous 2F)
 ## Profile Notes
 - Gaius  - 4F
 - Elise - 4F
@@ -19,15 +18,12 @@
 - Musse - 2F
 ## Optional Events
 - Millium's Bathrobe and Rosellia's Bathrobe - Visit the Bath on 3F
- - Random chance, can do this a few times
+  - Random chance, can do this a few times
 - Battle Training - Visit computer in 3F
 ## Sidequests
 - Showdown of the Decade - Talk to Stark on the Ship's Deck
- - Winning nets you 2 AP
-  - Make backup save if you want to guarantee the AP
-
+  - Winning nets you 2 AP, make a backup save if you want to guarantee it
 ----------------------------------------------------------------------------------
-
 # Sutherland Region
 ## Profile Notes
 - Fiona - Hyarms Mansion
@@ -45,9 +41,7 @@
 - Cat - Vander Training Hall in Parm
 ## Sidequests
 - Ghosts of Hamel - Meet Renne on East Crossbell Highway 1
-
 ----------------------------------------------------------------------------------
-
 # Lamare Region
 ## Profile Notes
 - Sandy and Olivert - Completed "The Alster Harvest Festival" sidequest
@@ -70,11 +64,9 @@
 ## Sidequests
 - The Alster Harvest Festival - Talk to Sandy in Sunny Spot Inn in Alster
 - Missing Person Report - Talk to Harche or Meyer in Diana's General Store in Milsante
- - Choices: 3 5 2
+  - Choices: || 3rd, 5th, 2nd ||
 - Einhel Keep Monster
-
 ----------------------------------------------------------------------------------
-
 # Crossbell Region
 ## Books
 - Three and Nine Chapter 10 - Kargo in St Ursula Medical College
@@ -87,7 +79,7 @@
 - Emily and Theresia - Inside the Derfflinger
 ## Pom! Pom! Party!
 - Tio - Old SSS Building
- - After completing "Missing Person Report" sidequest
+  - After completing "Missing Person Report" sidequest
 ## Master Quartz
 - Erda - Defeat all opponents in Pom
 ## Scenic Picture
@@ -104,9 +96,7 @@
 - Tilulu - Near Stargazers' entrance
 ## Sidequests
 - Saving Officer Alan - Boathouse in East Crossbell Highway 3
-
 ----------------------------------------------------------------------------------
-
 # Courageous 2 (Part 2)
 ### If you have cleared every side quest in the Finale and have defeated the five cryptids, returning to the Courageous, you will receive a call from Toval. This will start the ??? quest. This is neccessary for the True Ending to the game.
 ### Check the Finale Side Content Checklist for all the information on these.
@@ -122,6 +112,7 @@
 - Munk and Rex - 2F
 ## Sidequests
 - ??? - Return the Courageous after you have completed all Finale sidequests and defeated all cryptids.
-
-# After Finale
-### After the final credits, you can reload your last save to get an extra cutscene at the end. This is normally a NG+ only cutscene, but you can get the game to display it this way.
+----------------------------------------------------------------------------------
+# After Completing the Game
+### After the final credits, you can reload your last save to get an extra cutscene at the end. This is normally a NG+ only cutscene, but you can get the game to display it this way. You can skip the credits sequence to get there faster.
+- It is after the cutscene where || Rean walks out of his room at the branch campus ||

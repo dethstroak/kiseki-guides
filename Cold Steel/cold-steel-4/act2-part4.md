@@ -3,26 +3,22 @@
 ## Books
 - Imperial Chronicles Issue 7 - Store
 ## Bonding Event
- - Jusis - This bonding event gives Jusis cosmetics
+- Jusis - This bonding event gives Jusis cosmetics
 ## Vantage Masters
 - Celine and Ash - Cafeteria
 ## Pom! Pom! Party!
 - Ash - Cafeteria
-
 ----------------------------------------------------------------------------------
-
 # Sutherland Region
 ## Optional Event
 - Visit Hotspring with Randy and Tio
- - After completing "The Hot Spots" sidequest
+  - After completing "The Hot Spots" sidequest
 ## Gifts
 - Laura and Jusis - Lemuric General Store in Eryn
 ## Sidequests
 - Family Scattering - Lord Quinn in Parm
 - The Hot Spots - Witch Dallier in Eryn
-
 ----------------------------------------------------------------------------------
-
 # Lamare Region
 ## Recipe
 - Alster Plate - Purchase from Sunny Spot Inn in Alster
@@ -32,10 +28,8 @@
 - Avon Hills Monster
 ## Fishing
 - Estella - Lake Gala Byroad Summit
- - Requires talking to Kopan and Peter in White Birch in in Milsante
-
+  - Requires talking to Kopan and Peter in White Birch in in Milsante
 ----------------------------------------------------------------------------------
-
 # The Pantagruel
 ## Vantage Masters
 - Lloyd - Pantagruel VIP Room

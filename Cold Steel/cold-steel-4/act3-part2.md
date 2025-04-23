@@ -14,30 +14,26 @@
 ## Gifts
 - Celine - Becky's Store 2F
 - Musse - Neinvalli Exchange 3F
- - Alster Risotto - Sunny Spot Inn in Alster
- - Miranda's Paella - Miranda's Tavern in Ordis
+  - Alster Risotto - Sunny Spot Inn in Alster
+  - Miranda's Paella - Miranda's Tavern in Ordis
 ## Optional Events
 - Guest Bathrobes - Bath 3F
- - Put Sharon in party for her Bath Towel
+  - Put Sharon in party for her Bath Towel
 - Battle Training - After "Persistent Study" sidequest
 ## Sidequests
 - Persistent Study - Talk to Wayne or Jessica in Training Room 3F
 - Herbal Supplements - Talk to Stark in Conference Room 3F
-
 ----------------------------------------------------------------------------------
-
 # Sutherland Region
 ## Sidequests
 - Operation: Free Eryn - Try to fly to Eryn, then visit on foot via teleportation stone to complete this quest
- - Completing this sidequest will give you an additional bonding point
- - This also opens up Elise's special bonding event on the Courageous 2
+  - Completing this sidequest will give you an additional bonding point
+  - This also opens up Elise's special bonding event on the Courageous 2
 ## Profile Notes
 - Agate - Completed "Operation: Free Eryn" sidequest
 ## Optional Event
 - Visit Eryn Hotsprings with Juna, Musse, Altina, and Tita
-
 ----------------------------------------------------------------------------------
-
 # Lamare Region
 ## Profile Notes
 - Lucy and Alfin - After event in Cayenne Mansion in Ordis
@@ -53,9 +49,7 @@
 - North Languedoc Canyon Monster
 ## Optional Events
 - Visit Cayenne Mansion in Ordis
-
 ----------------------------------------------------------------------------------
-
 # Crossbell City
 ## Books
 - If You Say Goodbye Part 3 - Neinvalli Exchange in East Street
@@ -74,19 +68,17 @@
 ## Gifts
 - Sharon - Barca Casino in Entertainment District
 - Claire - Imelda's Antique Shop
- - Needed for an event later to occur
+  - Needed for an event later to occur
 - Alisa - Neinvalli Exchange
- - Bellberry Ice Cream - Ice cream stand in Entertainment District
- - Crunchy Melon Bun - Morges Bakery in West Street
+  - Bellberry Ice Cream - Ice cream stand in Entertainment District
+  - Crunchy Melon Bun - Morges Bakery in West Street
 - Elise - Business Owners' Association
 ## Optional Event
 - See Renne in Harbor
 - Talk to Lloyd in Morges Bakery, then Oscar in Entertainment District
 ## Sidequest
 - Geofront X Monster
-
 ----------------------------------------------------------------------------------
-
 # August 30th
 ## Profile Notes
 - Louise - 4F
@@ -102,4 +94,4 @@
 - Visit St Ursula Rooftop
 ## Fishing
 - Flamear Ojo - St Ursula Medical College
- - Requires talking to Kenneth in Le Lectier Inn
+  - Requires talking to Kenneth in Le Lectier Inn

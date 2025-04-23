@@ -18,9 +18,9 @@
 - Sara - Completed "Ladies' Night" sidequest
 - Jusis - Lakeside Beach event
 - Sharon - Lakeside Beach event
- - After Cassius' event
+  - After Cassius' event
 - Claire - Visit Lake Elm Wetlands after receiving Claire's Mail
- - If you did not purchase Chrome Blue Harmonica gift on 8/29, this event will not appear
+  - If you did not purchase Chrome Blue Harmonica gift on 8/29, this event will not appear
 ## Recipe
 - Imperial Tea - Purchase in Restaurant Fortuna
 ## Gifts
@@ -37,16 +37,16 @@
 - Lakeside Beach
 ## Optional Event
 - Extra Ticket
- - Win against Toval in Vantage Master
- - Feed the cat a Rainbow Trout on the Wharf
- - Talk to Anton after Sharon's event
- - Completed "Ladies' Night" quest
+  - Win against Toval in Vantage Master
+  - Feed the cat a Rainbow Trout on the Wharf
+  - Talk to Anton after Sharon's event
+  - Completed "Ladies' Night" quest
 - After Cassius' event
- - Neithardt and Fiona - Restaurant Fortuna
- - Professor Schmidt - Hotel Delphinia
- - Vincent and Margarita, then Elliot - Castle of Mirrors
- - Mary and Makarov - Mishelam Center
- - Thomas, Irving, and Toval - Mishelam Center
+  - Neithardt and Fiona - Restaurant Fortuna
+  - Professor Schmidt - Hotel Delphinia
+  - Vincent and Margarita, then Elliot - Castle of Mirrors
+  - Mary and Makarov - Mishelam Center
+  - Thomas, Irving, and Toval - Mishelam Center
 ## Sidequest
 - Ladies' Night - Talk to Sara on Lakeside Beach
- - Must complete before Cassius' event
+  - Must complete before Cassius' event

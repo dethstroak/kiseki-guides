@@ -4,9 +4,7 @@
 - Alisa - Bridge
 ## Pom! Pom! Party!
 - Elie - Talk to Juna inside
-
 ----------------------------------------------------------------------------------
-
 # Sutherland Region
 ## Books
 - Three & Nine Chapter 6 - Recruit Nash at Titus Gate
@@ -15,18 +13,14 @@
 - Margarita - Count Altheim's Residence in Saint-Arkh
 ## Vantage Masters
 - Marquis Ballad - Marquis Hyarms' Mansion in Saint-Arkh
-
 ----------------------------------------------------------------------------------
-
 # August 25th
 # Avon Hills, Milsante
 ## Vantage Masters
 - Josette - White Birch Inn
 ## Gifts
 - Towa - Diana General Store
-
 ----------------------------------------------------------------------------------
-
 # Lake Gala Byroad
 ## Optional Event
 - Go near Luna Shrine
@@ -34,9 +28,7 @@
 - Northern Arowana - Lake Gala Byroad North Spot
 ## Scenic Picture
 - Deck past the bridge
-
 ----------------------------------------------------------------------------------
-
 # Leeves
 ## Books
 - A Coco Panda's Tale Part 2 - Carnegie Books and Games

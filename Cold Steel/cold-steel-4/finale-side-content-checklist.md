@@ -1,15 +1,15 @@
 # You can cycle missables in Jingo's shop by reloading the zone.
 # Cryptid Locations and Lost Arts
 - Fornelias - Eerie Woods
- - Icicle Meteo
+  - Icicle Meteo
 - Magic Knight Legus-Zamiel - Bryonia Island Second Half
- - Rhiannon Kiss
+  - Rhiannon Kiss
 - Agaragion - Osgiliath Basin Depths
- - Prominence Roar
+  - Prominence Roar
 - Jiruba-Glyph - Auros Coastal Road 1
- - Grail Thelas
+  - Grail Thelas
 - Lore-Fantasma - Stargazers' Tower
- - Lord Regnarion
+  - Lord Regnarion
 # Black Zemurian Ore Shards
 - Draco Shrine Altar
 - Osgiliath Basin
@@ -17,7 +17,7 @@
 - Mishelam Fortune Teller in Castle of Mirrors
 - Stella Sanctuary Altar
 - Orchis Tower Rooftop
- - Go there via Geofront X Sector 1 in Entertainment District
+  - Go there via Geofront X Sector 1 in Entertainment District
 # Black Zemurian Ore
 - Report to Dorothee with all books collected
 

@@ -9,7 +9,6 @@
 - Visit Eryn Hotsprings
 ## Free Gifts
 - Talk with Witch Auler in Herbalist's Home
-
 ----------------------------------------------------------------------------------
 
 # Merkabah
@@ -17,9 +16,7 @@
 - Laura - Merkabah Interior
 ## Pom! Pom! Party!
 - Machias - Merkabah Interior
-
 ----------------------------------------------------------------------------------
-
 # Bryonia Island
 ## Fishing
 - Blue Marlin - Beach
@@ -27,9 +24,7 @@
 - Spiky Puffer - Pier
 ## Scenic Picture
 - Ledge near Waterfall
-
 ----------------------------------------------------------------------------------
-
 # August 20th
 # Merkabah
 ## Vantage Masters
@@ -41,18 +36,14 @@
 # Bryonia Island
 ## Fishing
 - Snow White - Behind Waterfall
- - Requires talking to Anabelle
+  - Requires talking to Anabelle
 ## Scenic Picture
 - Near Guardian Statue
-
 ----------------------------------------------------------------------------------
-
 # Eryn
 ## Optional Event
 - Visit Hotsprings with Crow and Duvalie
-
 ----------------------------------------------------------------------------------
-
 # Sutherland Region
 ## Vantage Masters
 - Anton - Parm near Water Wheel
@@ -62,9 +53,7 @@
 - Elliot - Iris' Souveneirs stall
 ## Profile Notes
 - Kairi - Parm Chapel
-
 ----------------------------------------------------------------------------------
-
 # August 21st
 # Ordis
 ## Books

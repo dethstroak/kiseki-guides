@@ -9,27 +9,6 @@
 - Noct Watch - Gandolf's Orbal Factory
 ## Free Gifts
 - Witch Auler - Talk twice in Herbalist's Home
-
-----------------------------------------------------------------------------------
-
-# Titus Gate
-## Scenic Picture
-- Titus Gate
-## Recipe
-- Luxurious Cheese Doria - Purchase from Titus Gate Rest Area
-## Optional Event
-- Talk to Albert
-- Talk to Margarite after event in # August 7th
-# Eryn
-## Books
-- Imperial Chronicles issue 2 - Lemuric General Goods
-- Three & Nine Chapter 1 - Sigyn in Fortune Teller's House
-## Fishing
-- Kasagin, Snow Crap, Cangiru, Carp - Eryn Pond
-## Exchange
-- Noct Watch - Gandolf's Orbal Factory
-## Free Gifts
-- Witch Auler - Talk twice in Herbalist's Home
 ----------------------------------------------------------------------------------
 # Saint-Arkh
 ## Books

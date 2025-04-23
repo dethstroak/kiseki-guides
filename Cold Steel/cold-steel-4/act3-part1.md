@@ -11,15 +11,13 @@
 ## Gifts
 - Roselia - Becky's Store 2F
 - Randy - Neinvalli Exchange 2F
- - Fresh Grape Juice - Gasco's in Alster
- - Souffle Pancakes - Recette Bakery & Cafe in Leeves
+  - Fresh Grape Juice - Gasco's in Alster
+  - Souffle Pancakes - Recette Bakery & Cafe in Leeves
 ## Master Quartz
 - Oberon - Tita's Tech Team 1F
 ## Optional Event
 - Visit Bath in 3F
-
 ----------------------------------------------------------------------------------
-
 # Courageous 2 (After Luna Sanctuary)
 ## Books
 - Imperial Chronicle Issue 8 - Becky's Store 2F
@@ -32,7 +30,7 @@
 - Maya - Complete "A Father-Daughter Bout" sidequest
 - Kaela - Complete "A Herculean Task" sidequest
 ## Bonding Events
- - Kurt - This bonding event gives Kurt cosmetics
+- Kurt - This bonding event gives Kurt cosmetics
 ## Vantage Masters
 - Jusis - 1F
 - Kaela - Talk to her after completing "A Herculean Task" sidequest
@@ -41,15 +39,13 @@
 ## Sidequest
 - "Clearing The Airwaves" - Talk to Valerie
 - "A Father-Daughter bout" - Talk to Maya in 1F
- - Choices: 2 1 1
+  - Choices: || 2nd, 1st, 1st ||
 - "Interview with Nielsen" - Talk to Nielsen in Old Lamare Road Resting Lodge
 - "The Radio Stars Reborn"
- - Choices: 2 1 1 2
+  - Choices: || 2nd, 1st, 1st, 2nd ||
 ## Optional Events
 - Duvalie - Training Hall 3F
-
 ----------------------------------------------------------------------------------
-
 # Sutherland Region
 ## Books
 - Three & Nine Chapter 8 - Talk to Lucy in Hyarms Mansion in Saint-Arkh
@@ -58,10 +54,8 @@
 ## Optional Events
 - Visit Hyarms Mansion
 - Eryn Hotsprings with Old Class VII girls
- - Alisa, Fie, Emma, Laura, Sara
-
+  - Alisa, Fie, Emma, Laura, Sara
 ----------------------------------------------------------------------------------
-
 # Lamare Region
 ## Profile Notes
 - Fie - Talk to her after "The Radio Stars Reborn" sidequest
@@ -72,7 +66,7 @@
 - Alfin - Alisha Casino in Raquel
 ## Fishing
 - Zafiro Espada - Auros Coastal Road 2
- - Talk to Lakelord II in Miranda's Tavern in Ordis
+  - Talk to Lakelord II in Miranda's Tavern in Ordis
 ## Recipes
 - Wild Grill - Bartolo's Sausage Stall in Ordis North Street
 - Yummy Caesar Salad - Recette Bakery & Cafe in Leeves
@@ -81,9 +75,7 @@
 ## Optional Event
 - Visit Cayenne Mansion in Ordis
 - Luna Sanctuary Altar - Cosmetic Item
-
 ----------------------------------------------------------------------------------
-
 # August 28th
 # Courageous 2
 ## Profile Notes
