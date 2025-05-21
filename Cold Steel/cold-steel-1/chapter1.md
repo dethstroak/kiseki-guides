@@ -3,6 +3,7 @@
 - Choices: || 3rd ||
 ## Books
 - Imperial Railways: A History - Read the book in the School Library
+- Test Message
 ----------------------------------------------------------------------------------
 # April 18th - Day
 ## Books
@@ -33,6 +34,7 @@
 - East Celdic Highway Monster
 - **Hidden Quest** : A Day as a Merchant - Go to the Grand Market and Speak with Lymon, accept his offer to run his store for him
   - Choices: || 3rd, 1st, 2nd, 5th ||
+- Test Message
 ----------------------------------------------------------------------------------
 # April 25th - Day
 ## Cutscene
