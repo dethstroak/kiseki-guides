@@ -3,7 +3,7 @@
 -------------------------
 # Day 2
 ## Crossbell
-### After Geofront
+- Go to the roof and feed Coppe a fish
 - Choices: 
     - || Reveal your Detective Notebook ||
     - || Handle it ourselves ||

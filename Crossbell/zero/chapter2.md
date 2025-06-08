@@ -1,6 +1,6 @@
 # Day 1
 ## Crossbell
-- Feed Coppe a fish on the roof
+- Go to the roof and feed Coppe a fish
 ### Collectibles
 #### Books
 - Crossbell Times 3 - Purchase at the Department Store 

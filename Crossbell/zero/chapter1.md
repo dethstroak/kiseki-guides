@@ -1,5 +1,6 @@
 # Day 1
 ## Crossbell
+- Go to the roof and feed Coppe a fish
 ### Collectibles
 #### Books
 - Crossbell Times 2 - Purchase from Times Department Store
@@ -44,13 +45,13 @@
 - Abandoned Apartment Monster Cleanup
 - Mainz Mountain Path Monster Extermination
 ## Mainz Mining Village
-- Choices: || 
-    - Monsters' Objective
-    - Unknown
-    - Wolves' Abilities
-    - Black Wolves
-    - Property Damage/Injury
-    - Shizuku MacLaine ||
+- Choices:
+    - || Monsters' Objective ||
+    - || Unknown ||
+    - || Wolves' Abilities ||
+    - || Black Wolves ||
+    - || Property Damage/Injury ||
+    - || Shizuku MacLaine ||
 - Head to the north after the scene with all the choices to be able to enter the mine
 ### Collectibles
 #### Books
