@@ -3,7 +3,6 @@
 - Choices: || 3rd ||
 ## Books
 - Imperial Railways: A History - Read the book in the School Library
-- Test Message
 ----------------------------------------------------------------------------------
 # April 18th - Day
 ## Books
