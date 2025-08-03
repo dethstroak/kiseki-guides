@@ -29,6 +29,7 @@
     - || Return to Shizuku after getting all items ||
 ## Moon Temple
 Proceed through dungeon as normal
+---
 # Day 2
 ## Crossbell
 - Speak to three people who have seen strange behavior:
@@ -59,6 +60,7 @@ Proceed through dungeon as normal
     - Start by entering Imelda's shop
         - May not trigger if you have missed DP up to this point
     - Save before entering Rosenberg's Studio
+---
 # Day 3
 ## Crossbell
 - **POINT OF NO RETURN**: After reaching the boss at the end of the dungeon today you will not be able to explore Crossbell. Make sure any sidequests and upgrades and completed before entering.
