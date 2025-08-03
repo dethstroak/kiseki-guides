@@ -18,7 +18,7 @@
     - || East Streat Blue Haired Merchant ||
     - || Harbor District Man at Ramen Cart then girl walking around the area ||
 - Vacancy Verification
-- Secret: Michel's Test
+- **Hidden Quest**: Michel's Test
     - || Approximately 50 years ago ||
     - || Professor C.Epstein ||
     - || Septium Fragments ||
