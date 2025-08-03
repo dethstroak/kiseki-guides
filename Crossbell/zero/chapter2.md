@@ -40,7 +40,7 @@
 - Testaments Training
 - Rare Herb Retrieval
 - E. Crossbell Highway Monster Extermination
-- Secret: Lost Wedding Ring (After Geofront)
+- **Hidden Quest**: Lost Wedding Ring (After Geofront)
 ## Geofront - B Sector
 ### Collectibles
 #### Recipes

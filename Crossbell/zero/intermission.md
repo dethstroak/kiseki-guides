@@ -6,11 +6,11 @@
 - Crossbell Time 6 - Purchase at the Department Store
 - Back Alley Doctor Glenn 11 - Purchase at Tallys' in West Street
 ### Sidequests
-- Secret: A Treat for the Mayor
+- **Hidden Quest**: A Treat for the Mayor
     - Head to City Hall and go into the door on the upper left
-- Secret: Geofront A Sector Monster Extermination
+- **Hidden Quest**: Geofront A Sector Monster Extermination
     - Talk to Receptionist Rebecca in the CPD office
-- Secret: Sunday School Guest Lecturer
+- **Hidden Quest**: Sunday School Guest Lecturer
     - After seeing kids go to the cathedral head back and speak with Sister Marble
     - || Military ||
     - || First Investigative Division ||

@@ -81,7 +81,7 @@
 #### Books
 - Back Alley Doctor Glenn 10 - Before the auction starts, enter auction room again and talk to the red-haired maid on stage
 ### Sidequests
-- Secret: Where's My Engagement Ring?
+- **Hidden Quest**: Where's My Engagement Ring?
     - Talk to many in hotel room in the east wing
     - || Restraurant Fortuna ||
     - || Fountain in front of park entrance ||

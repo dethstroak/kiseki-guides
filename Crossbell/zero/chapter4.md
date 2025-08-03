@@ -19,7 +19,7 @@
 - A Sincere Favor
     - Choice: || Recommend it ||
 - W. Crossbell Highway Monster Extermination
-- Secret: A Present for Father
+- **Hidden Quest**: A Present for Father
     - Speak to Shizuku in St. Ursula room 304 to start
     - || Room 301. Speak to Michael ||
     - || Nurse Station 2F. Speak to Meifa ||
@@ -55,7 +55,7 @@ Proceed through dungeon as normal
     - || Go to West Street and talk to Tally. Find blue flowers on fork in path leading to Moon Temple ||
     - || West Crossbell Highway. South from bus stop. Find yellow flowers right before gate ||
     - || East Crossbell Highway. Follow road until finding stairs on left. Find white flowers near lighthouse ||
-- Secret: Getting a New Doll
+- **Hidden Quest**: Getting a New Doll
     - Start by entering Imelda's shop
         - May not trigger if you have missed DP up to this point
     - Save before entering Rosenberg's Studio

@@ -36,7 +36,7 @@
 # Day 2
 ## Crossbell
 ### Sidequests
-- Hidden: We Long for Mishy
+- **Hidden Quest**: We Long for Mishy
     - Go to Long Lao Tavern & Inn speak with Lars and his kid in first room
 - Inspection Assistance Wanted
     - Speak with everyone
