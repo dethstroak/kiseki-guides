@@ -10,8 +10,8 @@
     - || The wounds on the victim ||
     - || The Presence of Heiyue ||
 ### Collectibles
-#### Books
-#### Recipes
+**Books**
+**Recipes**
 ### Sidequests
 - Lost Item Search
     - || Central Square Department Store Receptionist ||

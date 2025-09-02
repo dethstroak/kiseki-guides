@@ -2,7 +2,7 @@
 ## Crossbell
 - Go to the roof and feed Coppe a fish
 ### Collectibles
-#### Books
+**Books**
 - Crossbell Time 6 - Purchase at the Department Store
 - Back Alley Doctor Glenn 11 - Purchase at Tallys' in West Street
 ### Sidequests

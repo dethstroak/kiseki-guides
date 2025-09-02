@@ -2,9 +2,9 @@
 ## Crossbell
 - Go to the roof and feed Coppe a fish
 ### Collectibles
-#### Books
+**Books**
 - Crossbell Times 2 - Purchase from Times Department Store
-#### Recipes
+**Recipes**
 - Juicy Steak - West Street: Go inside Bellheim Apartments and speak to aunt Leyte to receive the recipe
 - Fresh Fruit Juice - Administrative District: Speak to Chrome at her fruit shop cart to get it
 ### Sidequests
@@ -14,9 +14,9 @@
 - Assistance With New Service
 ## Armorica Village
 ### Collectibles
-#### Books
+**Books**
 - Back Alley Doctor Glenn 2 - Speak to Reoir in the General Store after investigating
-#### Recipes
+**Recipes**
 - Rustic Omelet Rice - Inside the Inn, check the wooden board on the right side
 ## St Ursula Medical College
 ### Investigation (Check All Spots)
@@ -30,7 +30,7 @@
 ### After investigation
 - Speak with martha in room behind nurses station
 ### Collectibles
-#### Recipes
+**Recipes**
 - Deluxe Beef Stew - Speak to the innkeeper Kirsch behind the counter in the inn.
 ----------------------------------------------------------------
 # Day 2
@@ -54,5 +54,5 @@
     - || Shizuku MacLaine ||
 - Head to the north after the scene with all the choices to be able to enter the mine
 ### Collectibles
-#### Books
+**Books**
 - Back Alley Doctor Glenn 3 - Talk to Max (the NPC in bed in the southern room) when you're waiting for the operation to start.

@@ -4,9 +4,9 @@
 - Be sure to turn in any last requests and gear up before leaving Crossbell. This will be the last time to purchase equipment.
 - After completing the Creative Cooks Wanted sidequest you can take all the Supreme Dishes and turn them into the statue on the east side of East street to get the Solar Gem.
 ### Collectibles
-#### Books
+**Books**
 - Crossbell Times 8 - Purchase from Department Store
-#### Recipes
+**Recipes**
 - Medicinal Mapo Tofu - Speak to Roose outside Long Lao Tavern in East Street
 - Shiny Blue - Speak to Sandra inside Garante Bar in the Back Alley
 ## St. Ursula

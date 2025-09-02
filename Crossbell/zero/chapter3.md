@@ -9,10 +9,10 @@
     - || Combo Craft ||
     - || Fight Separately ||
 ### Collectibles
-#### Books
+**Books**
 - Crossbell Times 4 - Purchase from Times Department Store
 - Back Alley Doctor Glenn 6 - Speak to Angler Peter at the beach on Ursula Road after completing the urgent request.
-#### Recipes
+**Recipes**
 - Light Popcorn -  	Speak to vendor Arona (green hair) next to Officer Kate in Central Square.
 ### Sidequests
 - Illegal Parking Crackdown
@@ -44,7 +44,7 @@
 - Old Armorica Road Monster Extermination
 ## Geofront A Sector
 ### Collectibles
-#### Books
+**Books**
 - Back Alley Doctor Glenn 7 - As you enter the Geofront, leave and go talk to Chief Roberts in Vingt-Sept Cafe in Central Square
 ---------------------------------------------------
 # Day 3
@@ -59,17 +59,17 @@
 - E Crossbell Highway Monster Extermination
 ## Crossbell (After Ancient Battlefield)
 ### Collectibles
-#### Books
+**Books**
 - Back Alley Doctor Glenn 8 - Talk to Chief Sergei in the interrogation room inside the CPD.
 --------------------------------------------------
 # Day 4
 ## Crossbell
 - Make sure to get any equipment or items you want before getting on the boat
 ### Collectibles
-#### Books
+**Books**
 - Crossbell Times 5 - Purchase from Times Department Store
 - Back Alley Doctor Glenn 9 - Speak to Dr. Belldine on 2F in the side building
-#### Recipes
+**Recipes**
 - Snow Gelato - Speak to Mithra at the food stall in Harbor District outside Heiyue
 ### Sidequests
 - Urgent Request from City Hall
@@ -78,7 +78,7 @@
 - Choices:
     - || There's an intruder ||
 ### Collectibles
-#### Books
+**Books**
 - Back Alley Doctor Glenn 10 - Before the auction starts, enter auction room again and talk to the red-haired maid on stage
 ### Sidequests
 - **Hidden Quest**: Where's My Engagement Ring?

@@ -1,10 +1,10 @@
 # Day 1
 ## Crossbell
 ### Collectibles
-#### Books
+**Books**
 - Crossbell Time 7 - Purchase from Times Department Store
 - Back Aley Doctor Glenn 12 - Speak to Commander Baelz at Tangram Gate twice
-#### Recipes
+**Recipes**
 - Long Lao Tanmen - Speak to Zell at the Ramen Shop in Harbor District
 - Sincere Lunchbox - At Mainz, Inside the house past the store and mine
 - Colorful Tomato Burger - Speak to Nurse Cirone on the roof of the side building at St. Ursula
@@ -41,7 +41,7 @@ Proceed through dungeon as normal
     - || Haphazard chain of command ||
     - || Blue pills in Gantz's possession ||
 ### Collectibles
-#### Books
+**Books**
 - Back Alley Doctor Glenn 13 - Talk to Attendant Maggis inside the Train Station
 ### Sidequests
 - Search for an Important Person
@@ -65,7 +65,7 @@ Proceed through dungeon as normal
 ## Crossbell
 - **POINT OF NO RETURN**: After reaching the boss at the end of the dungeon today you will not be able to explore Crossbell. Make sure any sidequests and upgrades and completed before entering.
 ### Collectibles
-#### Books
+**Books**
 - Back Alley Doctor Glenn 14 - Exchange 5 Mishy Plush Toys for it with Jingo at Neinvalli
 ### Sidequests
 - Orbal Staff Enhancement
