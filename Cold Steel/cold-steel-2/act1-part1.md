@@ -3,6 +3,7 @@
 ## Recipe
 - Fresh Vegetable Juice - Moulbaix, Celdic Chapel
 ## Books
+- Imperial Chronicle Issue #2 - Cornette's General Goods, Grand Market
 - Gambler Jack Reprint #2 - Cornette's General Goods, Grand Market
 - Gambler Jack II #1 - Tarim, Near farm on Eastern Celdic Highway
 ## Profile Notes

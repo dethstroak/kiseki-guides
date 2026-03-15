@@ -10,7 +10,6 @@
 ## Free Gifts
 - Talk with Witch Auler in Herbalist's Home
 ----------------------------------------------------------------------------------
-
 # Merkabah
 ## Vantage Masters
 - Laura - Merkabah Interior
