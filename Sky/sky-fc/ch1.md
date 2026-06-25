@@ -12,7 +12,7 @@
     - Strawberry: || 1st ||
     - Cow: || 2nd ||
 ----------------------------------------------------------------------------------
-# Bose Part 1
+# Bose Part 1 
 ### Recipes
 - Fullmouth Soup - Purchase from Kirsche Bar
 - Red Tail Soup - Purchase from Kirsche Bar
